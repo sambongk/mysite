@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-	return HttpResponse("헬로우고 나발이고 ㅇㅇ.")
+	return HttpResponse("헬로우고 나발이고.")
